@@ -36,7 +36,7 @@ Whenever you add or change a file, your website will be updated automatically - 
 * Under "Source", choose "Deploy from a branch"
 * Under "Branch", choose "master" and " / (root)", then click "Save"
 
-That's it, your page will now be deployed to the web and in about 30 seconds it will be live at the URL https://<yourGitHubUsername>.github.io/portfolio. You can follow the progress of your deployment by clicking the "Actions" tab at the top of the repository page. 
+That's it, your page will now be deployed to the web and in about 30 seconds it will be live at the URL https://\<yourGitHubUsername\>.github.io/portfolio. You can follow the progress of your deployment by clicking the "Actions" tab at the top of the repository page. 
 
 ## Adding a new blog post
 
@@ -66,7 +66,7 @@ image: images/my-image.jpg
 
 Explanation of the header keys:
 * title : the title of your blog post
-* excerpt_separator : If you add the excerpt_separator "<!--more-->" in your blog post, 
+* excerpt_separator : If you add the excerpt_separator `<!--more-->` in your blog post, 
   everything above that  separator will be shown on your home page, below the title of your blog.
 * categories : you can add your blog post to one or more categories, to organise them. In the "categories" page of your website, your posts will be grouped by category. 
 * tags : you can assign one or more tags (keywords) to your blog post, to make it easier for readers to find posts that interest them. In the "tags" page of your website, your posts will be grouped by tag. 
