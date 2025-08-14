@@ -33,7 +33,7 @@ Whenever you add or change a file, your website will be updated automatically - 
 
 * Go to "Settings" tab at the top of the repo page
 * Click "Pages" in the left-hand column
-* Under "Source", choose "Deploy from a branch"
+* Under "Source", choose "Deploy from a branch" (this should already be set)
 * Under "Branch", choose "master" and " / (root)", then click "Save"
 
 That's it, your page will now be deployed to the web and in about 30 seconds it will be live at the URL https://\<yourGitHubUsername\>.github.io/portfolio. You can follow the progress of your deployment by clicking the "Actions" tab at the top of the repository page. 
@@ -47,7 +47,12 @@ In order to publish a new blog post, simply place a new text file in the `_posts
 
 Go to the `_posts` folder in your portfolio repository on GitHub, click the "Add file" button, and choose "Create new file". 
 
-A file editor will open; it will ask you to give your file a name. It's a good idea to add the date in the filename, and to avoid spaces in the filename: e.g., "2025-01-31-my-new-post.md". 
+A file editor will open; it will ask you to give your file a name. The file name should 
+- start with the date (in yeear-month-day format) 
+- then (a shortened version of) the title, replacing spaces with hyphens
+- finally, the file extension ".md" (for markdown)
+
+E.g., "2025-01-31-my-new-post.md". 
 
 The file should start with a header, like this (paste the header into your new file, including the sequences of three hyphens, and adapt the title, categories, tagsm and image keys to your need):
 
@@ -113,7 +118,7 @@ After you have added this image link to you post and have saved your file, the i
 
 ## Adding a new sub-page
 
-You can add a new sub-page (which will be shown in the left-hand menu) by adding a new page in the root of this repository (that is, the folder that contains all the other files and folders in this repository).
+You can add a new sub-page (which will be shown in the left-hand menu) by adding a new page in the root of this repository (that is, the folder that contains all the other files and folders in this repository). Note that, in contrast to blog posts, these pages do not need a date in the filename, but their filename **must** have the ".md" extension. E.g., `projects.md`.
 
 The header should look something like this:
 
