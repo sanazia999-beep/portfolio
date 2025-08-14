@@ -159,7 +159,11 @@ the other contains all the images you use on your websit (`images`).
 The index.md, posts.md, categories.md and tags.md files are templates for the pages of your website; they contain nothing more than a header, which will tell Jekyll to 
 
 
-## building the site locally, using VSCode
+## building the site on your local machine, using [VSCode](https://code.visualstudio.com/)
+
+If you don't want to wait for GitHub pages to load your site every time you make a small change, you can build the website on your own computer, and when you're happy with it, push it to GitHub. 
+
+Prerequisite: you have a local clone of your repository on your computer. 
 
 1. (only do this once) install ruby and jekyll
 
@@ -168,7 +172,7 @@ The index.md, posts.md, categories.md and tags.md files are templates for the pa
 
 2. (only do this once) install the necessary ruby gems: in your terminal, navigate to your portfolio folder, and then run the command `bundle install`
 
-3. build your site: in VsCode, open the command palette (ctrl+shift+P), type "Tasks: Run Task", then choose "Run Jekyll" (This will run the "Run Jekyll" task, defined in tasks.json in this repository)
+3. build your site: in VSCode, open the command palette (ctrl+shift+P), type "Tasks: Run Task", then choose "Run Jekyll" (This will run the "Run Jekyll" task, defined in tasks.json in this repository; based on [this website](https://tosbourn.com/running-jekyll-from-vscode/))
 
 4. Go to your browser; the site should now be displayed at the URL http://127.0.0.1:4000/
 
