@@ -101,7 +101,7 @@ If you want to use this image in a blog post, you simply include a link to the i
 ![write a caption here]({{site.baseurl}}images/my_photo.png)
 ```
 
-You can change the text "write a caption here" (this will be displayed instead of your image if it can't be loaded), and you have to plug in the real filename of your image (), but it is very important that you keep all the other elements of the link intact: 
+You can change the text "write a caption here" (this will be displayed instead of your image if it can't be loaded), and you have to plug in the real filename of your image (instead of "my_photo.png"), but it is very important that you keep all the other elements of the link intact: 
 
 ```
 ![          ]({{site.baseurl}}images/          )
@@ -172,7 +172,7 @@ Prerequisite: you have a local clone of your repository on your computer.
 
 1. (only do this once) install ruby and jekyll
 
-* follow the installation steps for [Windows](https://jekyllrb.com/docs/installation/windows/)
+* follow the installation steps for [Windows](https://jekyllrb.com/docs/installation/windows/) or [MacOS](https://jekyllrb.com/docs/installation/macos/)
 *  Check if Jekyll has been installed properly by running this command in your terminal: `jekyll -v`
 
 2. (only do this once) install the necessary ruby gems: in your terminal, navigate to your portfolio folder, and then run the command `bundle install`
