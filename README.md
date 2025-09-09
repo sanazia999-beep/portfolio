@@ -110,8 +110,8 @@ You can change the text "write a caption here" (this will be displayed instead o
 Examples:
 
 ```
-![My favourite picture of myself]({{site.url}}images/my_photo.png)
-![A cool, techy-looking picture]({{site.url}}images/home-banner.jpg)
+![My favourite picture of myself]({{site.baseurl}}images/my_photo.png)
+![A cool, techy-looking picture]({{site.baseurl}}images/home-banner.jpg)
 ```
 
 After you have added this image link to you post and have saved your file, the image will be displayed once the site has reloaded (it may take a minute to load).
