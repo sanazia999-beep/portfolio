@@ -8,16 +8,14 @@ tags:
 image: images/banner_home.jpg
 ---
 
+The Digital Guide to Theatre of the Middle East is a project...
 
-
-
- ##Digital Guide to the Theatre of the Middle East.
 
 <!--more-->
 
 ![a random image]({{site.baseurl}}images/logo.jpg)
 
-
+## Digital Guide to the Theatre of the Middle East.
 
 The Digital Guide to Theatre of the Middle East is a project that collects and shares information about plays from the Middle East, North Africa (MENA), and their displaced communities since 2000. Their main goal is to make communication easy and use it for academics, theatre professionals, and producers in the world. The project follows 3 stages: materials, processing, and presentation, but it puts more focus on collecting and presenting the information in an easy and simple way.
 
