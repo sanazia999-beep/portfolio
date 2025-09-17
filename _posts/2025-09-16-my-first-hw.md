@@ -5,7 +5,7 @@ categories:
   - project1
 tags:
   - homework
-image: images/banner_home.jpg
+image: images/banner2.jpg
 ---
 
 <!--more-->
