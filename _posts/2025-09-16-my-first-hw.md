@@ -29,7 +29,7 @@ The third step is presentation, which shares all the organized data through a fr
 The project follows Ducker’s 3 stages, but places its strong importance on materials and presentation. The stage of processing is present but appears focused on the construction of the data and management rather than on difficult computational analysis.
 
 Links to project websites:
-https://dgtome.com
+www.dgtome.com
 
 
  
