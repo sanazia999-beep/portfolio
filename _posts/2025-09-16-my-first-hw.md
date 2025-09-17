@@ -14,8 +14,9 @@ image: images/banner_home.jpg
 
  Digital Guide to the Theatre of the Middle East.
 
+<!--more-->
 
-       <img width="153" height="148" alt="image" src="https://github.com/user-attachments/assets/2ca46747-f96f-44b2-a738- a2c24ba956de" />
+<img width="153" height="148" alt="image" src="https://github.com/user-attachments/assets/2ca46747-f96f-44b2-a738- a2c24ba956de" />
 
 
 
