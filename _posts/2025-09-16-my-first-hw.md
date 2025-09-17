@@ -8,9 +8,6 @@ tags:
 image: images/banner_home.jpg
 ---
 
-The Digital Guide to Theatre of the Middle East is a project...
-
-
 <!--more-->
 
 ![a random image]({{site.baseurl}}images/logo.jpg)
