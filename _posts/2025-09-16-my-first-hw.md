@@ -1,3 +1,12 @@
+---
+title: "Digital Guide to the Theatre of the Middle East"
+excerpt_separator: "<!--more-->"
+categories:
+  - project1
+tags:
+  - homework
+image: images/banner_home.jpg
+---
 
 Summary
 
