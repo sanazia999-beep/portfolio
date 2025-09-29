@@ -6,5 +6,5 @@ layout: about
 
 # About me
 
-[write something about yourself here]
+
 Hi I am Sana Zia the picture shows my adventurous side. It reflects that I am not scared of heights and that I can take risks and challenge myself.
