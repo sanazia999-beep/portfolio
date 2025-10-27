@@ -15,7 +15,7 @@ The goal of this mini-project was to understand and practice the full process of
 
 2: At least one paragraph on the book you digitized.
 
-Our group selected a book for digitization from the Aga Khan Library collection, which was Two Ismaili Treatises, which includes early Ismaili texts that shed light on the philosophy, rituals, and history of the Ismaili branch of Shi’i Islam. As a part of the process, we referenced its metadata. This ensured that the digitized version could be properly listed and easily searched within digital archives.
+Our group selected a book for digitization from the Aga Khan Library collection, which was Two Ismaili Treatises, which includes early Ismaili texts that shed light on the philosophy, rituals, and history of the Ismaili branch of Shi’i Islam. As a part of the process, we referenced its metadata and created a [table of contents](https://github.com/sanazia999-beep/portfolio/blob/master/project1-digitization/Table%20of%20contents%201.csv). This ensured that the digitized version could be properly listed and easily searched within digital archives.
 
 3: At least one paragraph on the scanning process.
 
@@ -23,9 +23,9 @@ The first stage of the project involved scanning the book using the Aga Khan’s
 
 4: A couple of paragraphs on the OCR process.
 
-Four transcription models, developed by kraken for Arabic and Persian scripts, were tested on a three-page sample from the book.  Their performance, represented by CER (Character Error Rate) and WER (Word Error Rate) values, was measured with the usage of a Python script developed by instructors and students at the AKU-ISMC. The script also includes normalisation tables, which are used to further qualify the WER and CER results. Based on another Python script (built with the assistance of ChatGPT) involving basic and easily replicable functions – such as split and len– the highest-performing transcription model was concluded to be kraken-gen2-print-n7m5-union-ft_best. The results were then authenticated against calculations made on an excel spreadsheet.
+Four transcription models, developed by kraken for Arabic and Persian scripts, were tested on a three-page sample from the book.  Their performance, represented by [CER (Character Error Rate) and WER (Word Error Rate)](https://sanazia999-beep.github.io/portfolio/project1/2025/10/22/OCR-evaluation.html) values, was measured with the usage of a [Python script](https://github.com/sanazia999-beep/portfolio/blob/master/project1-digitization/CER_WER%20Comparison-20251026T222820Z-1-001.zip) developed by instructors and students at the AKU-ISMC. The script also includes normalisation tables, which are used to further qualify the WER and CER results. Based on another Python script (built with the assistance of ChatGPT) involving basic and easily replicable functions – such as split and len– the highest-performing transcription model was concluded to be kraken-gen2-print-n7m5-union-ft_best. The results were then authenticated against calculations made on an excel spreadsheet.
 
 5: At least one paragraph of reflections on the entire project.
 
 This project was a good intersection to the start of digital humanities and machine learning.It shows how human expertise still matters in training and refinement. The process was also an exercise in collaboration, from maintaining a shared project log and cleaning data for testing and comparing OCR outputs.
-One of the key lessons was the importance of normalization and documentation. Creating segmentation guidelines, using metadata templates, and creating files systematically to ensure that the work could be easily done and understood by group members.It also gives me a sense of understanding of how historical texts can be made accessible by scanning to OCR evaluation. 
+One of the key lessons was the importance of normalization and documentation. Creating segmentation guidelines, using metadata templates, and creating files systematically to ensure that the work could be easily done and understood by group members. It also gives me a sense of understanding of how historical texts can be made accessible by scanning to OCR evaluation. 
