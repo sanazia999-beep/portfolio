@@ -1,5 +1,5 @@
 ---
-title: "My first blog"
+title: "Project Description"
 excerpt_separator: "<!--more-->"
 categories:
   - project1
