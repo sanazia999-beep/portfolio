@@ -1,9 +1,17 @@
-# Analyzing UNESCO's Recognition of Islamic Heritage Sites Over Time
+---
+title: "Analyzing UNESCO's Recognition of Islamic Heritage Sites Over Time"
+excerpt_separator: "<!--more-->"
+categories:
+  - project2
+tags:
+  - experiments
+  - tests
 
+---
 ## Research Question
 
 I wanted to explore whether UNESCO has been recognising more or fewer Islamic heritage sites over the years. 
-This question matters because understanding how cultural heritage is preserved and recognised can reveal patterns in global cultural representation and conservation priorities.
+This question matters because understanding how cultural heritage is preserved and recognised can reveal patterns in global cultural representation and conservation priorities.<!--more-->
 
 ## What I Did
 Using Python and data analysis, I examined UNESCO World Heritage site descriptions to identify sites connected to Islamic heritage. I searched for keywords like "islam," "mosque," and "muslim" in the official descriptions. My analysis went through several stages:
