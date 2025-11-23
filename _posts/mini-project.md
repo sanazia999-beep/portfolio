@@ -7,12 +7,10 @@ tags:
   - experiments
   - tests
 ---
-
 Climate change is widely understood as an environmental and economic crisis, but its impact on human mental health is becoming increasingly difficult to ignore. As global temperatures rise and extreme weather events become more common,
 communities around the world are facing not only physical displacement and loss of livelihoods, but also emotional trauma, 
 anxiety, and long-term psychological distress.These effects are particularly pronounced in remote mountain regions, 
-such as the northern areas of Pakistan and 
-Inuit communities in the Arctic, where people’s relationship with the environment is central to their identity, survival, and 
+such as the northern areas of Pakistan and Inuit communities in the Arctic, where people’s relationship with the environment is central to their identity, survival, and 
 cultural continuity.
 
 ## The Hidden Mental Health Burden of Climate Change
@@ -59,4 +57,4 @@ Climate change is not only damaging the environment  is reshaping the emotional 
 From the Arctic to the mountains of Pakistan, climate-related distress is increasing, especially among women who already navigate 
 social and economic barriers. Yet there is strength and resilience in these communities. When solutions honor local culture, empower 
 women, and recognize mental health as a core component of climate resilience, people are better equipped not only to survive environmental change 
-but to thrive in spite of it
+but to thrive in spite of it.
