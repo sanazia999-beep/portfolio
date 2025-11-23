@@ -1,5 +1,5 @@
 ---
-title: "Climate Change and Mental Health: A Gendered Look at Vulnerability and Resilience in Mountain Communities"
+title: "Climate Change, Women, and Mental Health: Building a Digital Humanities Corpus."
 excerpt_separator: "<!--more-->"
 categories:
   - Miniproject
@@ -7,54 +7,44 @@ tags:
   - experiments
   - tests
 ---
-Climate change is widely understood as an environmental and economic crisis, but its impact on human mental health is becoming increasingly difficult to ignore. As global temperatures rise and extreme weather events become more common,
-communities around the world are facing not only physical displacement and loss of livelihoods, but also emotional trauma, 
-anxiety, and long-term psychological distress.These effects are particularly pronounced in remote mountain regions, 
-such as the northern areas of Pakistan and Inuit communities in the Arctic, where people’s relationship with the environment is central to their identity, survival, and 
-cultural continuity.
+As I begin my digital humanities mini-project, I am focusing on a research topic closely connected to my MA thesis: the emotional and psychological 
+impacts of climate change on women, particularly in remote mountain communities such as northern Pakistan and the Inuit homelands of the Arctic. 
+This blog post outlines the datasets I plan to use, the analysis I hope to conduct, and the challenges that I expect to face as the project develops. Corpus and Data Sources
+My project will use a small but meaningful text corpus composed of:
+Climate change impact reports from organizations such as:
+IPCC
+UN Women
+UNICEF
+BBC
+Humanitarian assessments and regional reports on Pakistan, especially Gilgit-Baltistan and Chitral
+Academic journal articles on climate anxiety, environmental psychology, and eco-feminism
+Inuit community studies and testimonies, including public health surveys and cultural climate reports
+These documents contain rich qualitative discussions of lived experience: stress, loss of livelihood, altered social roles, and the emotional weight of environmental change. Many of them are open-access and can be downloaded directly from institutional websites. If needed, news articles, interview transcripts, or NGO press releases may expand the dataset later.
 
-## The Hidden Mental Health Burden of Climate Change
-Research shows that climate change disrupts many of the stabilizing forces that support mental well-being stable homes, food security, employment, cultural activities, and predictable weather patterns. 
-The Lancet reports that globally, nearly half of people struggling with mental illness receive no treatment at all, and in developing nations, that number rises to 90%. 
-In communities where healthcare access is already limited, climate disruptions add another layer of hardship.
-In Pakistan’s mountainous regions such as Gilgit-Baltistan and Chitral glacial lake outburst floods, landslides, changing
-temperatures, and unpredictable weather are increasing rates of anxiety, depression, and PTSD. Similarly, Inuit communities in
-northern Canada report a deep emotional toll when changing climate patterns make traditional activities like hunting, fishing, 
-and traveling unsafe. These activities are not only economic—they are cultural practices that strengthen identity and community
-relationships. Losing the ability to engage in them causes grief, uncertainty, and emotional distress.
+## Analytical Goals
+Digital humanities methods offer an opportunity to ask new questions of climate-focused narratives.
+Some key questions guiding my work include:
+How is climate-related emotional distress described in institutional and community texts?
+Are women’s experiences framed more in psychological, economic, or social terms?
+Which themes appear most frequently anxiety, resilience, trauma, uncertainty, displacement, or cultural loss?
+To explore these questions, I am considering methods such as:
+Keyword frequency analysis to see how often mental health concepts appear in climate-related writing.
+Topic modeling to identify recurring clusters of ideas across different regions and texts.
+Sentiment analysis to measure emotional tone and variation.
+Named Entity Recognition to map places, organizations, and demographic references. These techniques will help move beyond reading individual reports and instead detect broader patterns in how women’s climate experiences are represented.
 
-## Women Carry a Heavier Burden
-The psychological impacts of climate change are not experienced equally across communities. Studies consistently highlight that 
-women face greater emotional and social vulnerability during environmental crises. In Pakistan’s northern regions, women perform
-the majority of domestic and caregiving responsibilities collecting water, preparing food, tending livestock, and managing house
-holds. When disasters strike, their workload increases dramatically while access to mental health services remains extremely 
-limited.Women also face greater barriers to mobility, income, and decision-making power. Many cannot leave unsafe 
-areas without male family members,and even when they do migrate, they face heightened risks of poverty, exploitation, or
-violence. The United Nations estimates that 80% of people displaced by climate change are women or girls.
-These gender inequalities magnify the psychological toll of environmental 
-change, making emotional resilience harder to achieve.
+## Expected Challenges
+Working with this kind of dataset comes with specific challenges:
+## Data Format and Standardization
+Reports come in different formats PDFs, webpages, Word documents which may require OCR or conversion before computational analysis. Extracting clean text will be an early priority.
 
-## Lessons from Inuit Resilience
-Despite profound challenges, communities are developing strategies for coping and healing. Inuit research shows the importance
-of responses that respect local culture and community knowledge. Mental healthcare that integrates traditional practices, 
-social gatherings, and community leadership strengthens emotional resilience while reinforcing identity and belonging.
-This model demonstrates a valuable lesson: solutions work best when created with the participation of the people most affected. 
-Instead of imposing external programs, collaborative approaches that center Indigenous and community voices build empowerment 
-rather than dependency.
+## Mixed Terminology
+Climate change and mental health are described differently across regions. For example:
+Some sources use “eco-anxiety,”
+Others focus on “psychosocial impacts,”
+Many reports describe emotions indirectly through stories.
+This variety may complicate keyword-based analysis.
 
-## Towards Better Policy and Support
-Addressing climate-related mental health challenges requires more than disaster relief. 
-It means recognizing that emotional well-being is as essential as rebuilding infrastructure. Governments and 
-organizations need to:
-Increase mental health services in remote and climate-affected areas.
-Train community health workers and women leaders.
-Integrate mental health into climate and resilience policies.
-Reduce stigma surrounding emotional support.
-Support research that highlights lived experiences.
+## Looking Ahead
+This mini-project aims to show how digital humanities methods can reveal patterns in climate change narratives that might not appear through conventional close reading. By analyzing how institutions, researchers, and communities talk about environmental stress, especially for women, I hope to highlight emerging psychological realities of the climate crisis and demonstrate the value of computational textual analysis within climate-oriented humanities research.
 
-## Conclusion
-Climate change is not only damaging the environment  is reshaping the emotional landscape of entire communities. 
-From the Arctic to the mountains of Pakistan, climate-related distress is increasing, especially among women who already navigate 
-social and economic barriers. Yet there is strength and resilience in these communities. When solutions honor local culture, empower 
-women, and recognize mental health as a core component of climate resilience, people are better equipped not only to survive environmental change 
-but to thrive in spite of it.
