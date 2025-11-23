@@ -6,8 +6,8 @@ categories:
 tags:
   - experiments
   - tests
-
 ---
+
 Climate change is widely understood as an environmental and economic crisis, but its impact on human mental health is becoming increasingly difficult to ignore. As global temperatures rise and extreme weather events become more common,
 communities around the world are facing not only physical displacement and loss of livelihoods, but also emotional trauma, 
 anxiety, and long-term psychological distress.These effects are particularly pronounced in remote mountain regions, 
