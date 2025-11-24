@@ -9,7 +9,8 @@ tags:
 ---
 As I begin my digital humanities mini-project, I am focusing on a research topic closely connected to my MA thesis: the emotional and psychological 
 impacts of climate change on women, particularly in remote mountain communities such as northern Pakistan and the Inuit homelands of the Arctic. 
-This blog post outlines the datasets I plan to use, the analysis I hope to conduct, and the challenges that I expect to face as the project develops. Corpus and Data Sources
+This blog post outlines the datasets I plan to use, the analysis I hope to conduct, and the challenges that I expect to face as the project develops. Corpus and Data Sources.
+<!--more-->
 My project will use a small but meaningful text corpus composed of:
 Climate change impact reports from organizations such as:
 IPCC
