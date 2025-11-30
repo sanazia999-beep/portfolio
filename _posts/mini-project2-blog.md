@@ -7,7 +7,6 @@ tags:
   - experiments
   - tests
 ---
-
 Climate change has growing impacts on mental health, especially for women in vulnerable communities.
 
 <!--more-->
