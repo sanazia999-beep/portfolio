@@ -1,8 +1,12 @@
-
-
-
-
-
+---
+title: "Climate Change and Mental Health: A Gendered Analysis of Vulnerability and Resilience in Pakistan and Arctic Communities."
+excerpt_separator: "<!--more-->"
+categories:
+  - Miniproject blog2
+tags:
+  - experiments
+  - tests
+---
 ## Research Questions.
 
 #Primary Research Question:
@@ -11,7 +15,7 @@ How does climate change affect the mental well-being of women in vulnerable moun
 #Secondary Research Questions:
 What specific psychological impacts (e.g., anxiety, depression, PTSD, eco-anxiety) are caused by climate-related events in these regions?
 What coping strategies do women and men in these communities adopt to manage climate-induced stress?
-How can policies better support women’s resilience and mental health in these regions?
+How can policies better support women’s resilience and mental health in these regions?<!--more-->
 
 ## Corpus/Dataset.
 
